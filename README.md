@@ -1,6 +1,6 @@
 # Devin Zalace
 
-Junior software developer building projects with Python, C++, JavaScript,
+Junior software developer building projects with Arduino, Python, C++, JavaScript,
 React Native, and FastAPI. My background in environmental science and GIS
 brings experience with data, technical documentation, and structured
 problem-solving.
